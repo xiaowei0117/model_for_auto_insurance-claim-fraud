@@ -1,0 +1,23 @@
+# Insurance Fraud Detection - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.23.0
+scipy>=1.10.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+imbalanced-learn>=0.10.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Model Persistence
+joblib>=1.2.0
+
+# Optional: For better performance
+# numba>=0.56.0
+# lightgbm>=3.3.0

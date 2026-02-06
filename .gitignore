@@ -1,0 +1,12 @@
+     # Ignore data files
+     *.csv
+     *.xlsx
+     
+     # Ignore output files
+     *.png
+     *.jpg
+     
+     # Python
+     __pycache__/
+     *.pyc
+     .idea/
